@@ -1,3 +1,3 @@
-# Ensino em geofísica
+# Educação em geofísica 
 ![](https://github.com/lszam/ensino/blob/main/logos.png)
-Aulas de geofísica - Material didático
+Material didático - algoritmos para aulas de geofísica
