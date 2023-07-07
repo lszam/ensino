@@ -1,3 +1,3 @@
 # Ensino em geofísica
-!![Logos](https://https://github.com/lszam/ensino/logos.png)
+![](https://github.com/lszam/ensino/blob/main/logos.png)
 Aulas de geofísica - Material didático
