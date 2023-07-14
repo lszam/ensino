@@ -1,0 +1,15 @@
+parametros do prisma gerado no algoritmo GRAVMAGPRISMA
+
+p1=[1,... %suscept
+ 0,... %mag_reman
+ 2700,... %density
+ 60,... %width
+ 200,... %lenght
+ 400,... %tickness
+ 250,... %coord_center_x
+ 250,... %coord_center_y
+ 20,... %depth_top
+ 90]; %strike_azimuth
+
+%grav_mag_prisma(dimen_horiz,dimen_vert,espac_mesh,decl,incl,field,noise_grav,noise_mag,'filename',p1,p2,...,pn];
+ grav_mag_prisma(500,500,10,-18,10,30000,0,0,'prisma_14julho2023.csv',p1);
